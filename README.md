@@ -1,7 +1,7 @@
 # Kotatu-ktor-klaxon
 [![](https://jitpack.io/v/wolpl/Kotatu-ktor-klaxon.svg)](https://jitpack.io/#wolpl/Kotatu-ktor-klaxon)  
 Kotatu-ktor-klaxon is library to use klaxon for JsonParser in Ktor.
-Version 0.1.3 requires Kotlin 1.3.0 and ktor version 1.0.0-beta-3.
+Version 0.1.4 requires Kotlin 1.3.10 and ktor version 1.0.0.
 
 # install
 ```groovy
