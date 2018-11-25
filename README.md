@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-	compile 'com.github.wolpl:Kotatu-ktor-klaxon:0.1.3'
+	compile 'com.github.wolpl:Kotatu-ktor-klaxon:0.1.4'
 }
 
 ```
